@@ -151,11 +151,4 @@ Sinta-se à vontade para contribuir:
 4. Push (`git push origin feature/nova-feature`)
 5. Abra um Pull Request
 
----
-
-## 👨‍💻 Autor
-
-Desenvolvido por você 🚀
-Se quiser, coloque seu nome aqui.
-
-##
+## OBRIGADO PELA ATENÇÃO ##
