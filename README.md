@@ -95,7 +95,7 @@ python login.py
 ### 📝 Cadastro de Usuário
 <p align="center">
   <img src="https://github.com/user-attachments/assets/04edcfac-f23a-4da3-b7a2-e1ef2feb2d06" width="350"/>
-  <img src="https://github.com/user-attachments/assets/e9f6301a-b39b-4ebf-9c9c-2f03d04cea7b" width="350"/>
+ 
 </p>
 
 ---
@@ -103,6 +103,7 @@ python login.py
 ### 🔑 Recuperação de Senha
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aed0e0e5-a76d-4218-8e67-2b501667185a" width="350"/>
+   <img src="https://github.com/user-attachments/assets/e9f6301a-b39b-4ebf-9c9c-2f03d04cea7b" width="350"/>
 </p>
 
 ---
